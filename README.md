@@ -1,7 +1,7 @@
 
 # React Router desde cero
 
-Este proyecto es una implementación básica de React Router desde cero, que cumple con los siguientes requisitos:
+Este proyecto es una implementación básica de  un React Router, que cumple con los siguientes requisitos:
 
 ## Funcionalidades
 
